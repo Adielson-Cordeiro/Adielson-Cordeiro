@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Adielson-Cordeiro
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Adielson-Cordeiro&show_icons=true&title_color=3cb371&text_color=2a107a&icon_color=c76300&bg_color=79e76e&cache_seconds=2300">
 
-<!---
-Adielson-Cordeiro/Adielson-Cordeiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Olá, meu nome é Adielson Cordeiro do Nascimento
+
+<img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub">
+
+<p>
+
+Estudando/trabalhando na **IFPE Campus Belo Jardim**<br/>
+
+
+</p>
+<hr>
