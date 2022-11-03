@@ -2,11 +2,11 @@
 
 ### Olá, meu nome é Adielson Cordeiro do Nascimento
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=Adielson&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 <p>
 
-Estudando/trabalhando na **IFPE Campus Belo Jardim**<br/>
+Estudando no **IFPE Campus Belo Jardim**<br/>
 
 
 </p>
