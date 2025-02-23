@@ -4,6 +4,6 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Adielson-Cordeiro&theme=highcontrast&show_icons=truelocale=pt-br)
 
-![Gif Linux](https://tenor.com/pt-PT/view/yetopen-gif-27266616)
+![Gif Linux](https://media1.tenor.com/m/y-cCxl8uEw0AAAAd/yetopen.gif)
 
 ---
