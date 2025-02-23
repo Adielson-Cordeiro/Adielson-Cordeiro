@@ -2,8 +2,12 @@
 
 ---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Adielson-Cordeiro&theme=highcontrast&show_icons=truelocale=pt-br)
+#
 
-![Gif Linux](https://media1.tenor.com/m/y-cCxl8uEw0AAAAd/yetopen.gif)
+#
+
+<img align="center" alt="Gif linux" src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" width=100px height=auto>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Adielson-Cordeiro&theme=highcontrast&show_icons=truelocale=pt-br)
 
 ---
