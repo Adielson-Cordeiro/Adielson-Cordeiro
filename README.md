@@ -4,8 +4,6 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Adielson-Cordeiro&theme=highcontrast&show_icons=truelocale=pt-br)
 
+<img align="" alt="" src="https://tenor.com/b0zsi.gif">
+
 ---
-
-
-<img src="https://img.shields.io/static/v1?label=Overview&message=Adielson&color=f8efd4&style=for-the-badge&logo=GitHub">
-
