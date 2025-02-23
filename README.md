@@ -1,13 +1,11 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Adielson-Cordeiro&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EFF727&width=435&lines=Hello%2C+i'am+Adielson+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-### Olá, meu nome é Adielson
+---
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Adielson-Cordeiro&theme=highcontrast&show_icons=truelocale=pt-br)
+
+---
+
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Adielson&color=f8efd4&style=for-the-badge&logo=GitHub">
 
-<p>
-
-Estudando no **IFPE Campus Belo Jardim**<br/>
-
-
-</p>
-<hr>
