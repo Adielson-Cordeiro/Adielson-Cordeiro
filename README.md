@@ -2,7 +2,8 @@
 
 
 #
-<p align="center">Estudante de Engenharia da Computação na UFRPE. Gosto muito de CiberSegurança, ultimamente venho me dedicando bastante a essa área.
+
+<p align="center">Estudante de Engenharia da Computação na UFRPE. Desejo trabalhar com CiberSegurança, atualmente sou FCF, mas estou buscando me aprimorar mais.
 
 #
 
@@ -10,3 +11,8 @@
 <img align="right" alt="gif linux" height="190px" src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif">
 
 ---
+
+<h3 align="left">Connect with me!</h3>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/adielson-cordeiro-do-nascimento/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/adielsonacn/)
