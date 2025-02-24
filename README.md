@@ -10,9 +10,15 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=Adielson-Cordeiro&theme=highcontrast&show_icons=truelocale=pt-br) 
 <img align="right" alt="gif linux" height="190px" src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif">
 
----
+
+#
 
 <h3 align="left">Connect with me!</h3>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/adielson-cordeiro-do-nascimento-b5371618b/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/adielsonacn/)
+
+
+
+
+#
