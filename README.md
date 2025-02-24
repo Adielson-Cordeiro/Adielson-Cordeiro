@@ -3,6 +3,9 @@
 
 #
 
+###
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4400F7&width=435&lines=%23!%2Fbin%2FJesus)](https://git.io/typing-svg)
+
 <p align="center"><b>Estudante de Engenharia da Computação na UFRPE. Desejo trabalhar com CiberSegurança, atualmente sou FCF, mas estou buscando me aprimorar mais.
 
 #
