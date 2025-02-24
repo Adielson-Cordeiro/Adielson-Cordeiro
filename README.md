@@ -3,12 +3,10 @@
 ---
 
 #
-
-Estudante de Engenharia da Computação na UFRPE. 
+<p align="center">Estudante de Engenharia da Computação na UFRPE. Gosto muito de CiberSegurança, ultimamente venho me dedicando bastante a essa área.
 
 #
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Adielson-Cordeiro&theme=highcontrast&show_icons=truelocale=pt-br) 
-<img align="center" alt="Gif linux" src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif">
+![Stats](https://github-readme-stats.vercel.app/api?username=Adielson-Cordeiro&theme=highcontrast&show_icons=truelocale=pt-br) <img align="center" alt="Gif linux" src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" width=150px height=auto>
 
 ---
