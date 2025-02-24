@@ -3,7 +3,7 @@
 
 #
 
-###
+### My Shebang
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4400F7&width=435&lines=%23!%2Fbin%2FJesus)](https://git.io/typing-svg)
 
 #
