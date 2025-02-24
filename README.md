@@ -6,6 +6,7 @@
 
 #
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Adielson-Cordeiro&theme=highcontrast&show_icons=truelocale=pt-br) <img align="center" alt="Gif linux" src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" width=300px height=auto>
+![Stats](https://github-readme-stats.vercel.app/api?username=Adielson-Cordeiro&theme=highcontrast&show_icons=truelocale=pt-br) 
+<img align="right" alt="gif linux" height="190px" src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif">
 
 ---
