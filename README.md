@@ -3,7 +3,7 @@
 
 #
 
-<p align="center"><b>Estudante de Engenharia da Computação na UFRPE. Desejo trabalhar com CiberSegurança, atualmente sou FCF, mas estou buscando me aprimorar mais. Tamo Junto é Só o Começo
+<p align="center"><b>Estudante de CyberSegurança
 
 #
 
